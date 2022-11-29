@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...Github
 Just created a file name called "practicefile"
 Created a new branch with name "branch1"
+Created a file 2 in main and successfully merged inot branch1
 
 
 <!---
